@@ -22,3 +22,13 @@ Here the admin can add a new doctor, edit a doctor’s information, display doct
 ![patient](https://github.com/sriganeshlokesh/hospital_management_system/blob/master/snapshots/Patientdatabase.png)
 
 Here the admin can add a new patient, assign a doctor to a patient, edit a patient’s information, display patient’s information, delete patient’s information, see the number of patients in the hospital, display all the patients’ information, clear all the information in the patient database or exit the patient database.
+
+#### 5. Patient's Report
+![report](https://github.com/sriganeshlokesh/hospital_management_system/blob/master/snapshots/Patientreport.png)
+
+The admin can generate a patient’s report by providing the patient’s id.
+
+#### 6. Patient's Bill
+![bill](https://github.com/sriganeshlokesh/hospital_management_system/blob/master/snapshots/Patientbill.png)
+
+The admin can generate a patient’s bill by providing the patient’s id.
