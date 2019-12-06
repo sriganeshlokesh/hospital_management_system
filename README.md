@@ -1,6 +1,9 @@
 # Hospital Management System
 A C++ application to manage the hospital's doctors and incoming patients.
 
+## Instructions
+The application has to be run in [Visual Studio](https://visualstudio.microsoft.com/) inorder to interact without any problems.
+
 ## User Interface
 
 #### 1. Main Page
